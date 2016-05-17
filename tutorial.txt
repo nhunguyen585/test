@@ -3,6 +3,7 @@ touch test.txt // create a empty file
 
 1. CREATE AND MODIFIED FILE.
 	EX: vi test1.txt
+	NOTE: command vi will create a new file then open it (if it is not exist), or open a file (if it is exist).
 2. ADD THIS FILE TO TRACKED LIST FILE, AND ADD THIS FILE TO STAGING AREA
 	EX: git add test1.txt
 	// this command do both step.
