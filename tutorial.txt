@@ -1,0 +1,15 @@
+touch test.txt // create a empty file
+3 STEP TO COMMIT.
+
+1. CREATE AND MODIFIED FILE.
+	EX: vi test1.txt
+2. ADD THIS FILE TO TRACKED LIST FILE, AND ADD THIS FILE TO STAGING AREA
+	EX: git add test1.txt
+	// this command do both step.
+3. COMMIT.
+	ex: git commit -m "this message notice what did we do on this commit"
+
+PUSH a repository into github
+	ex: git push origin master
+
+NOTE: The repository on computer must clone from repository on github.
