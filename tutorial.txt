@@ -14,3 +14,13 @@ PUSH a repository into github
 	ex: git push origin master
 
 NOTE: The repository on computer must clone from repository on github.
+
+*** Show commit log.
+	ex: git log
+	ex: git log -p // show detail
+		Note: use up and down to view. ctrl + z to exit
+
+*** 
+
+
+
