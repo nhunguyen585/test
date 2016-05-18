@@ -1,0 +1,3 @@
+UNMODIFIED
+UNMODIFIED ( File must in untracked file, if file in stage area, u must unstaging this file before unModified)
+	ex: git checkout -- test.txt
