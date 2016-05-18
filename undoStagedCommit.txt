@@ -1,0 +1,5 @@
+UNSTAGED STAGED FILES.
+	ex: git reset HEAD a.txt
+
+
+UNCOMMIT 
