@@ -1,3 +1,9 @@
 UNMODIFIED
 UNMODIFIED ( File must in untracked file, if file in stage area, u must unstaging this file before unModified)
 	ex: git checkout -- test.txt
+
+	NOTE: use: git commit 
+		to merge current branch with master, when u meet a error
+		(in your repository jsut have branch master)
+	      then use: git pull
+	      	to end merge
