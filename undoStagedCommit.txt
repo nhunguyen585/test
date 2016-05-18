@@ -1,0 +1,9 @@
+UNSTAGED STAGED FILES.
+	ex: git reset HEAD a.txt
+
+
+UNCOMMIT
+	ex: do what you forgotten
+	then type:  git commit --amend
+	then change or not change the message
+	then ESC - > :wq! - > 10 13
