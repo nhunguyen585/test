@@ -2,8 +2,12 @@ UNSTAGED STAGED FILES.
 	ex: git reset HEAD a.txt
 
 
+<<<<<<< HEAD
 UNCOMMIT
 	ex: do what you forgotten
 	then type:  git commit --amend
 	then change or not change the message
 	then ESC - > :wq! - > 10 13
+=======
+UNCOMMIT 
+>>>>>>> a8409fa82e6de8094fac710e9479856ab518d308
